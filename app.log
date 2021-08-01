@@ -1,0 +1,28 @@
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 00:37:29] "[37mGET /status HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 00:39:04] "[37mGET /status HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 00:39:17] "[37mGET /metrics HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 00:44:08] "[37mGET /metrics HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 00:50:35] "[37mGET /metrics HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 00:50:46] "[37mGET /status HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 00:50:46] "[37mGET /status HTTP/1.1[0m" 200 -
+2021-06-18 00:51:16,297,  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-06-18 00:51:20,465, 127.0.0.1 - - [18/Jun/2021 00:51:20] "[37mGET /metrics HTTP/1.1[0m" 200 -
+2021-06-18 00:53:30,407,  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-06-18 00:53:35,255, status endopoint was reached
+2021-06-18 00:53:35,263, 127.0.0.1 - - [18/Jun/2021 00:53:35] "[37mGET /status HTTP/1.1[0m" 200 -
+2021-06-18 00:55:51,855,  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-06-18 00:55:57,637, status endopoint was reached
+2021-06-18 00:55:57,645, 127.0.0.1 - - [18/Jun/2021 00:55:57] "[37mGET /status HTTP/1.1[0m" 200 -
+2021-06-18 00:55:59,029, metrics endopoint was reached
+2021-06-18 00:55:59,029, 127.0.0.1 - - [18/Jun/2021 00:55:59] "[37mGET /metrics HTTP/1.1[0m" 200 -
+2021-06-18 00:56:02,805, root endopoint was reached
+2021-06-18 00:56:02,813, 127.0.0.1 - - [18/Jun/2021 00:56:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:app:root endopoint was reached
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 01:05:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:app:metrics endopoint was reached
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2021 01:05:46] "[37mGET /metrics HTTP/1.1[0m" 200 -
